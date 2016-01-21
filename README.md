@@ -1,9 +1,9 @@
 # fermenter
 
-Modernize your Perl! System-wide installation of [Perl 5.18.2][link_perl_5_18_2], [perlbrew][link_perlbrew] and recommended modules to `/usr/local/perl` on [various Linux distributions][link_distributions_md] in one shot. Root required. Handle with care.
+Modernize your Perl! System-wide installation of [Perl 5.20.2][link_perl_5_20_2], [perlbrew][link_perlbrew] and recommended modules to `/usr/local/perl` on [various Linux distributions][link_distributions_md] in one shot. Root required. Handle with care.
 
 ```bash
-# install Perl 5.18.2 and recommended modules via perlbrew to /usr/local/perl.
+# install Perl 5.20.2 and recommended modules via perlbrew to /usr/local/perl.
 curl https://raw.github.com/vifo/fermenter/master/fermenter.sh | bash
 ```
 
@@ -51,7 +51,7 @@ Copyright 2014, Victor Foitzik. *perlbrew-fermenter* is released under the MIT l
 
 [link_distributions_md]: DISTRIBUTIONS.md
 [link_license_md]: LICENSE.md
-[link_perl_5_18_2]: http://www.cpan.org/src/README.html
+[link_perl_5_20_2]: http://www.cpan.org/src/README.html
 [link_perlbrew]: http://perlbrew.pl/
 [link_perlbrew_metacpan]: https://metacpan.org/release/App-perlbrew
 [link_issues]: https://github.com/vifo/fermenter/issues
